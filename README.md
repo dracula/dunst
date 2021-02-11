@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Dunst](https://dunst-project.org)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Dunst](https://dunst-project.org).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/dunst](https://draculatheme.com/dunst).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/dunst/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Tim Clifford](https://github.com/tim-clifford.png?size=100)](https://github.com/tim-clifford) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Tim Clifford](https://github.com/tim-clifford) |
 
 ## License
 
